@@ -1,0 +1,6 @@
+[submodule "python-can-monitor"]
+	path = python-can-monitor
+	url = https://github.com/alexandreblin/python-can-monitor.git
+[submodule "arduino-can-reader"]
+	path = arduino-can-reader
+	url = https://github.com/alexandreblin/arduino-can-reader.git
